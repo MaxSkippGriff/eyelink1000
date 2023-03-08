@@ -1,10 +1,6 @@
-%
-%
-% Matlab code for EyeLink1000 Plus
-%
-%
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Matlab code for EyeLink1000 Plus %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 try
     % Print starting message to screen
     fprintf('Experiment starting\n\n\t');
