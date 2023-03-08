@@ -1,9 +1,16 @@
+%
+%
 % Matlab code for EyeLink1000 Plus
 %
+%
+
 
 try
+    % Print starting message to screen
     fprintf('Experiment starting\n\n\t');
-    dummymode = 1; % set to 1 to initialize in dummymode
+
+    % Set to 1 to initialize dummymode i.e. run without eyelink
+    dummymode = 1;
 
     % STEP 1
     % Open a graphics window on the main screen
